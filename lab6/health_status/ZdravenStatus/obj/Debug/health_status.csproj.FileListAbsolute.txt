@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\health_status.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\ZdravenStatus.Form1.resources
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\ZdravenStatus.Properties.Resources.resources
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\health_status.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\health_status.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\ZdravenStatus.exe
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\obj\Debug\ZdravenStatus.pdb
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\bin\Debug\ZdravenStatus.exe.config
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\bin\Debug\ZdravenStatus.exe
+C:\Users\HP\Desktop\lab6\lab6\health_status\ZdravenStatus\bin\Debug\ZdravenStatus.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\bin\Debug\CopyText.exe.config
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\bin\Debug\CopyText.exe
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\bin\Debug\CopyText.pdb
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\text_copy.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\CopyText.Form1.resources
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\CopyText.Form2.resources
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\CopyText.Properties.Resources.resources
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\text_copy.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\text_copy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\CopyText.exe
+C:\Users\HP\Desktop\lab6\lab6\text_copy\CopyText\obj\Debug\CopyText.pdb

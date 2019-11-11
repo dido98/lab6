@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\lab6\lab6\user\User\bin\Debug\User.exe.config
+C:\Users\HP\Desktop\lab6\lab6\user\User\bin\Debug\User.exe
+C:\Users\HP\Desktop\lab6\lab6\user\User\bin\Debug\User.pdb
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\userr.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\User.Form1.resources
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\userr.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\userr.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\User.exe
+C:\Users\HP\Desktop\lab6\lab6\user\User\obj\Debug\User.pdb

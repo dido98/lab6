@@ -1,0 +1,20 @@
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.Form1.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\bin\Debug\Anketa.exe.config
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\bin\Debug\Anketa.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\bin\Debug\Anketa.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\Anketa\Anketa\obj\Debug\Anketa.pdb
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\bin\Debug\Anketa.exe.config
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\bin\Debug\Anketa.exe
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\bin\Debug\Anketa.pdb
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.Form1.resources
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.exe
+C:\Users\HP\Desktop\lab6\lab6\anketa\Anketa\obj\Debug\Anketa.pdb
